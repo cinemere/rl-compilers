@@ -31,3 +31,9 @@ conda create -y -n compiler_gym python=3.10 && conda activate compiler_gym
 pip install pip==22.2 setuptools==59.6.0
 pip install compiler_gym==0.2.5
 ```
+
+* old stable baselines
+
+```
+pip install stable-baselines3[extra]==1.8.0
+```

@@ -9,3 +9,6 @@ CompilerGym
 
 # conda installation script
 Anaconda3-2023.09-0-Linux-x86_64.sh
+
+# logs
+logs/

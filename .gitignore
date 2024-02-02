@@ -10,5 +10,9 @@ CompilerGym
 # conda installation script
 Anaconda3-2023.09-0-Linux-x86_64.sh
 
+# downloaded and cached data
+datasets/downloads/
+datasets/tars_local_cache-share/
+
 # logs
 logs/

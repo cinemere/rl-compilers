@@ -16,3 +16,6 @@ datasets/tars_local_cache-share/
 
 # logs
 logs/
+
+# models
+saved_models/
